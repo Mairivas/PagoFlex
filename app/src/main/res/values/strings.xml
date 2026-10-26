@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PagoFlex</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_commitments">Compromisos</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="channel_id">pagoflex_channel</string>
+    <string name="channel_name">Recordatorios PagoFlex</string>
+    <string name="channel_description">Avisos de compromisos próximos a vencer</string>
+    <string name="notification_title">Pago próximo a vencer</string>
+    <string name="notification_text">Tienes compromisos de pago próximos a vencer.</string>
+</resources>
